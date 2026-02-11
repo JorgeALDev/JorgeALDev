@@ -52,11 +52,16 @@ conquistar minha primeira vaga como desenvolvedor mobile e crescer nessa carreir
 ## 📊 Minhas Estatísticas
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JorgeALDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=ffffff)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JorgeALDev&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1)
-
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JorgeALDev&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
+      </td>
+      <td align="center">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JorgeALDev&theme=tokyonight&layout=compact&langs_count=8&hide_border=true" />
+</td>
+    </tr>
+  </table>
 </div>
 
 ---
