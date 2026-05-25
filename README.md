@@ -15,7 +15,11 @@
 
 ## Sobre
 
-Comecei em Android pela linguagem — Kotlin me fisgou antes mesmo de eu saber o que era Compose. Desde então tenho construído apps próprios, do sorteador de campeões do LoL ao catálogo de animes, mais por gostar do processo do que por obrigação. Formando em ADS (2026), buscando primeira oportunidade em mobile.
+Comecei em Android pela linguagem: Kotlin me fisgou antes mesmo de entender
+o ecossistema. Desde então construo apps por conta própria — um catálogo da
+discografia da Marina Sena com música ambiente, um sorteador de campeões do LoL
+consumindo a API da Riot, um catálogo de animes. Formando em ADS (2026),
+buscando primeira oportunidade em mobile.
 
 ---
 
@@ -23,8 +27,10 @@ Comecei em Android pela linguagem — Kotlin me fisgou antes mesmo de eu saber o
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| [LoL Champion Picker](https://github.com/JorgeALDev/App-de-Sorteio) | Sorteia campeões do LoL com ícones em tempo real via API da Riot Games | Kotlin · Jetpack Compose · Coil · Material 3 |
-| [AppD20](https://github.com/JorgeALDev/AppD20) | Simulador de dado D20 para RPG com registro de sessão | Kotlin · Android · SharedPreferences |
+| [LoL Champion Picker](https://github.com/JorgeALDev/App-de-Sorteio) | Sorteia 3 campeões aleatórios com ícones em tempo real via Data Dragon API | Kotlin · Compose · Coil · Material 3 |
+| [Marinada](https://github.com/JorgeALDev/Marinada) | Discografia da Marina Sena com música ambiente e acesso direto ao Spotify | Kotlin · Compose · MediaPlayer · Coil |
+| [AniCatalog](https://github.com/JorgeALDev/AniCatalog) | Catálogo de animes com tela de login e navegação entre telas | Kotlin · Compose · Activities · Coil |
+| [AppD20](https://github.com/JorgeALDev/AppD20) | Simulador de dado D20 para sessões de RPG | Kotlin · Android · SharedPreferences |
 
 ---
 
