@@ -1,119 +1,121 @@
+# Jorge Luiz Araújo Lima
+
+**Tecnologia da Informação | Análise de Sistemas | Suporte Técnico | Sustentação de Sistemas | QA/Testes | Desenvolvimento Mobile**
+
 ## Sobre
 
-Formado em Análise e Desenvolvimento de Sistemas pelo IFCE.
+Formado em Análise e Desenvolvimento de Sistemas pelo Instituto Federal do Ceará (IFCE).
 
-Experiência prática com desenvolvimento de aplicações mobile, testes, integração de APIs e configuração de ambientes.
+Tenho experiência prática no desenvolvimento e manutenção de aplicações, integração entre sistemas por APIs REST, investigação e correção de problemas técnicos, análise de logs, testes e validação de funcionalidades.
 
-Base técnica em programação e arquitetura de software, com capacidade para atuar em suporte técnico, implantação de sistemas e garantia de qualidade – áreas onde o entendimento do funcionamento interno das aplicações facilita o diagnóstico e a resolução de problemas.
+Também possuo experiência com coleta, organização e consolidação de dados, elaboração de gráficos, relatórios e dashboards utilizando Excel e Power BI (básico).
 
-Busco uma colocação profissional onde possa aplicar conhecimento técnico de forma objetiva e consolidar experiência prática.
+Minha principal experiência técnica é com Kotlin, Android e Kotlin Multiplatform. Também tenho contato com React, TypeScript, bancos de dados e outras tecnologias por meio de projetos pessoais e acadêmicos.
 
----
+Busco oportunidades na área de Tecnologia da Informação, especialmente em Suporte Técnico, Implantação e Sustentação de Sistemas, QA/Análise de Testes, Análise de Sistemas e Operações de TI. Também considero oportunidades em desenvolvimento.
 
-## Atualmente
+Tenho facilidade para aprender novas ferramentas, investigar problemas técnicos e me adaptar a diferentes tecnologias.
 
-- Desenvolvendo o aplicativo **GeoSaúde** (Kotlin Multiplatform – Android e iOS)
-- Colaborando no desenvolvimento da plataforma **HubCompras** (React, TypeScript, Node.js)
-- Desenvolvendo o **Tormenta App** como projeto pessoal
-- Estudando arquitetura de software, desenvolvimento mobile e tecnologias web
-- Utilizando IA como ferramenta de apoio à pesquisa, documentação e aceleração do desenvolvimento, com validação técnica das soluções implementadas
+**Localização:** Russas/CE  
+**Disponibilidade:** Mudança para Fortaleza/CE | Oportunidades presenciais, híbridas e remotas.
 
 ---
 
-## Experiência em Projetos
+## Experiência Prática e Projetos
 
-### GeoSaúde *(Projeto Privado)*
+### GeoSaúde — Desenvolvedor Mobile / Principal Desenvolvedor do Projeto
 
-Aplicativo multiplataforma (KMP) para gestão de saúde. Atuação em desenvolvimento, testes manuais, validação com usuários reais (Prefeitura de Limoeiro do Norte), sincronização offline e integração com APIs REST.
+Desenvolvimento e manutenção de aplicativo mobile utilizado por agentes de saúde em campo, com recursos offline e persistência local de dados.
 
-**Tecnologias:** Kotlin Multiplatform · Compose Multiplatform · REST APIs · SQLite · Android · iOS · Git
+- Implementação de fluxos de autenticação.
+- Integração entre sistemas utilizando APIs REST.
+- Investigação e correção de problemas técnicos.
+- Análise de logs para identificação de falhas.
+- Testes e validação de funcionalidades.
 
----
+**Tecnologias:** Kotlin · Android · Kotlin Multiplatform · APIs REST · Bancos de Dados · Git · GitHub
 
-### HubCompras *(Projeto Privado)*
+### IFCE — Campus Tabuleiro do Norte | Estágio em Análise de Dados
 
-Plataforma web para gestão de compras coletivas, conectando produtores, gestores e fornecedores.
+Atuação na coleta, atualização, organização e consolidação de informações de ex-alunos da instituição.
 
-Atuação com foco em melhorias no frontend, correções e pequenas implementações, com suporte eventual ao backend.
+- Contato com ex-alunos para coleta e atualização de informações.
+- Organização e consolidação dos dados coletados.
+- Elaboração de gráficos, relatórios e dashboards.
+- Utilização de Excel e Power BI (básico) para análise de indicadores.
 
-**Tecnologias:** React · TypeScript · Vite · Express · PostgreSQL · REST APIs · Git
+### HubCompras — Desenvolvimento e Manutenção de Sistemas
+
+Colaboração no desenvolvimento e na manutenção de sistema para gestão de compras coletivas.
+
+- Implementação de melhorias e ajustes de interface.
+- Investigação e correção de bugs.
+- Apoio nas integrações entre aplicações.
 
 ---
 
 ## Projetos em Destaque
 
-| Projeto | Descrição | Stack |
-|---------|-----------|-------|
-| **GeoSaúde** *(Privado)* | Aplicação multiplataforma para agentes de endemias com funcionamento offline e sincronização de dados. | Kotlin Multiplatform · Compose Multiplatform · SQLite · REST |
-| **HubCompras** *(Privado)* | Plataforma web para gestão de compras coletivas entre produtores, gestores e fornecedores. | React · TypeScript · Express · PostgreSQL |
-| [Tormenta App](https://github.com/JorgeALDev/Tormenta-App) | Aplicativo Android para consulta de livros, rolagem de dados e integração com fichas de Tormenta20. | Kotlin · XML · Material Components |
-| [LoL Champion Picker](https://github.com/JorgeALDev/App-de-Sorteio) | Sorteador de campeões baseado na API Data Dragon da Riot Games. | Kotlin · Jetpack Compose · REST |
-| [Marinada](https://github.com/JorgeALDev/Marinada) | Catálogo da discografia de Marina Sena com integração ao Spotify. | Kotlin · Jetpack Compose |
-| [AniCatalog](https://github.com/JorgeALDev/AniCatalog) | Aplicativo para catálogo de animes com autenticação e navegação entre telas. | Kotlin · Jetpack Compose |
-| [AppD20](https://github.com/JorgeALDev/AppD20) | Simulador de dados para RPG de mesa. | Kotlin · Android |
+### Pokédex Social — Projeto Pessoal
+
+Aplicação web desenvolvida com funcionalidades adicionais a partir de um tutorial, permitindo cadastro e autenticação, criação de equipes personalizadas, armazenamento de dados e compartilhamento por links públicos.
+
+**Tecnologias:** React · TypeScript · Material UI · Firebase Authentication · Firestore · React Query · React Router
+
+- [Repositório no GitHub](https://github.com/JorgeALDev/Pokedex-Social)
+- [Aplicação online](https://pokedex-social.vercel.app/)
 
 ---
 
-## Formação
+## Extensão e Atividades Complementares
 
-**Tecnólogo em Análise e Desenvolvimento de Sistemas** – IFCE, Campus Tabuleiro do Norte
+### DEVUP — Projeto de Comunicação e Tecnologia
 
-- Todas as disciplinas concluídas
-- Aguardando colação de grau
-- Aprovação em todas as disciplinas, sem reprovações
+Organização de perfil educacional no Instagram, pesquisa sobre tecnologia, produção de conteúdo informativo, criação de artes e publicações, registro de eventos e colaboração em comunicação.
 
-### Principais áreas estudadas
+### Desenvolvimento de Software: "Que Bicho é Esse?" — Projeto Educacional
 
-- Engenharia de Software
-- Arquitetura de Software
-- Desenvolvimento Mobile e Web
-- Banco de Dados (SQL e NoSQL)
-- Programação Orientada a Objetos
-- Estruturas de Dados
-- Redes de Computadores
-- Sistemas Operacionais
-- Testes de Software
+Participação em ações educacionais em escolas para divulgação da área de Tecnologia da Informação e explicação de conceitos de desenvolvimento de software em linguagem acessível.
 
 ---
 
-## Extensão e Eventos
+## Formação Acadêmica
 
-### DEVUP
-
-Projeto de extensão para divulgação de tecnologia. Produção de conteúdo educativo sobre desenvolvimento, carreira e mercado de trabalho.
-
-### Desenvolvimento de Software: Que Bicho é Esse?
-
-Projeto em escolas da região. Apresentação de conceitos básicos de desenvolvimento de software para estudantes do ensino médio.
-
-### DEVMIND
-
-Evento acadêmico de tecnologia organizado pelo IFCE. Atuação na organização, divulgação, gestão de redes sociais, apoio a palestras e preparação de ambientes para participantes.
+**Tecnólogo em Análise e Desenvolvimento de Sistemas**  
+Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) — Campus Tabuleiro do Norte  
+**Conclusão: 2026**
 
 ---
 
-## Tecnologias
+## Competências e Conhecimentos Técnicos
 
-### Linguagens
+### Experiência Prática
 
-- Kotlin
-- Java
-- TypeScript
-- Python
-- SQL
+- Desenvolvimento e manutenção de aplicações.
+- Integração entre sistemas e APIs REST.
+- Investigação de problemas técnicos e análise de logs.
+- Resolução de falhas.
+- Testes e validação de aplicações.
+- Git e GitHub.
+- Kotlin e Android.
+- Kotlin Multiplatform.
+- React e TypeScript (projetos pessoais).
 
-### Desenvolvimento
+### Conhecimentos Acadêmicos e Básicos
 
-- Android · Jetpack Compose · Kotlin Multiplatform
-- React · Node.js · Express
-- APIs REST
+- Java e Programação Orientada a Objetos.
+- SQL e bancos de dados relacionais.
+- Excel.
+- Power BI (básico).
+- Python (básico).
+- Análise de dados.
 
-### Banco de Dados
+### Competências Comportamentais
 
-- PostgreSQL · MySQL · SQLite · Room · Firebase
-
-### Ferramentas
-
-- Git · GitHub
-- Android Studio · IntelliJ IDEA · VS Code
-- Postman · Figma
+- Capacidade analítica.
+- Facilidade de aprendizagem.
+- Organização.
+- Comunicação.
+- Trabalho em equipe.
+- Adaptabilidade.
+- Proatividade.
